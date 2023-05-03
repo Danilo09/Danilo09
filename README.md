@@ -8,4 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
+<div style="display: inline-block"> 
+  <img align="center" alt="" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
+</div>
+
