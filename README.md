@@ -1,7 +1,7 @@
 ## Hi, I'm Danilo Nascimento 👋
 
 - 🌱 I’m currently learning: JavaScript, English, ReactJS.
-- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.
+	- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in HTML, CSS, JAVASCRIPT, REACTJS.
 - 📫 How to reach me: <a align="center" target="__blank" href="https://www.linkedin.com/in/danilo-nascimento2/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/
 
