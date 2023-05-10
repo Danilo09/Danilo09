@@ -9,6 +9,19 @@
 </ul>
 </div>
 
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+<div>
+<ul style="list-style: none; padding: 0;">
+	<li>- 🌱 I’m currently learning: JavaScript, English, ReactJS.</li>
+	<li>- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.</li>
+	<li style="display: inline-flex; align-itens: center">- 📫 How to reach me: <a target="__blank" href="https://www.linkedin.com/in/danilo-nascimento2/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </li>
+	<li>- 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/</li>
+</ul>
+</div>
+  </foreignObject>
+</svg>
+
 
 
 
