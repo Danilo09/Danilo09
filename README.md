@@ -1,4 +1,4 @@
-### Hi, I'm Danilo Nascimento 👋
+## Hi, I'm Danilo Nascimento 👋
 
 - 🌱 I’m currently learning: JavaScript, English, ReactJS.
 - 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.
@@ -6,6 +6,7 @@
 - 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/
 
 
+### Favorite Tecnologies 🚀
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
