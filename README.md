@@ -1,9 +1,17 @@
 ### Hi, I'm Danilo Nascimento 👋
 
-- 🌱 I’m currently learning: JavaScript, English, ReactJS.
-- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/
+<div>
+	<ul>
+		<li>- 🌱 I’m currently learning: JavaScript, English, ReactJS.</li>
+		<li>- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.</li>
+		<li>- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</li>
+		<li>- 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/</li>
+	</ul>
+</div>
+
+
+
+
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
