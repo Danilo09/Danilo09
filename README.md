@@ -4,7 +4,7 @@
 <ul list-style: none;>
 	<li>- 🌱 I’m currently learning: JavaScript, English, ReactJS.</li>
 	<li>- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.</li>
-	<li>- 📫 How to reach me: <a href="https://www.linkedin.com/in/danilo-nascimento2/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </li>
+	<li>- 📫 How to reach me: <a target="__blank" href="https://www.linkedin.com/in/danilo-nascimento2/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </li>
 	<li>- 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/</li>
 </ul>
 </div>
