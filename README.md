@@ -1,13 +1,13 @@
 ### Hi, I'm Danilo Nascimento 👋
 
-
-	<ul list-style: none;>
-		<li>- 🌱 I’m currently learning: JavaScript, English, ReactJS.</li>
-		<li>- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.</li>
-		<li>- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</li>
-		<li>- 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/</li>
-	</ul>
-
+<div>
+<ul list-style: none;>
+	<li>- 🌱 I’m currently learning: JavaScript, English, ReactJS.</li>
+	<li>- 👯 I’m looking to collaborate on new projects front-end where I'll able to contributte with my knowleads in Html, Css, Javascript.</li>
+	<li>- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</li>
+	<li>- 😄 My lastest front-end projects: https://gym-typescript-aub.pages.dev/</li>
+</ul>
+</div>
 
 
 
