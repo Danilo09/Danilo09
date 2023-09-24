@@ -6,6 +6,22 @@
 - 😄 My lastest front-end project: https://gym-typescript-aub.pages.dev/
 
 
+### Projects and your tecnologies
+
+#### JavaScript
+<a href="https://github.com/Danilo09/js-banners">Banners with JavaScript</a>
+
+#### TypeScript
+
+#### ReactJS
+
+#### NextJS
+
+#### VueJS
+
+
+
+
 ### Favorite Tecnologies 🚀
 
 <div>
