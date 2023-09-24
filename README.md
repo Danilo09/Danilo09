@@ -6,7 +6,7 @@
 - 😄 My lastest front-end project: https://gym-typescript-aub.pages.dev/
 
 
-### Projects and your tecnologies
+### Projects
 
 #### JavaScript
 
