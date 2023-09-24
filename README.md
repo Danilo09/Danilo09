@@ -10,18 +10,18 @@
 
 #### JavaScript
 
-<a href="https://github.com/Danilo09/recipes">Structure with Oriented Object Program</a>
+<a href="https://github.com/Danilo09/recipes">Structure with Oriented Object Program</a><br>
 <a href="https://github.com/Danilo09/js-banners">Banners with JavaScript</a>
 
 #### TypeScript
 
-<a href="https://github.com/Danilo09/storys-with-typescript">Storys with TypeScript</a>
+<a href="https://github.com/Danilo09/storys-with-typescript">Storys with TypeScript</a><br>
 <a href="https://github.com/Danilo09/gym-typescript">Gym Landing Page with TypeScript, Vite and Tailwind</a>
 
 #### ReactJS
 
-<a href="https://github.com/Danilo09/origamid-project">Social Media - Login, upload, modal</a>
-<a href="https://github.com/Danilo09/Redux-Creating-Store">Redux Token with JWT and record in LocalStorage</a>
+<a href="https://github.com/Danilo09/origamid-project">Social Media - Login, upload, modal</a><br>
+<a href="https://github.com/Danilo09/Redux-Creating-Store">Redux Token with JWT and record in LocalStorage</a><br>
 <a href="https://github.com/Danilo09/UI-movies-browser">UI Movies Browser</a>
 
 
