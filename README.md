@@ -10,7 +10,7 @@
 
 ### JavaScript
 
-<a style="color: white; "target="__blank" href="https://github.com/Danilo09/recipes">Structure with Oriented Object Program</a><br>
+<a style="color: white;" target="__blank" href="https://github.com/Danilo09/recipes">Structure with Oriented Object Program</a><br>
 <a target="__blank" href="https://github.com/Danilo09/js-banners">Banners with JavaScript</a>
 
 ### TypeScript
