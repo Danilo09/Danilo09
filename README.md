@@ -8,28 +8,28 @@
 
 ## Projects
 
-### JavaScript
+JavaScript
 
-<a style="color: white;" target="__blank" href="https://github.com/Danilo09/recipes">Structure with Oriented Object Program</a><br>
+<a target="__blank" href="https://github.com/Danilo09/recipes">Structure with Oriented Object Program</a><br>
 <a target="__blank" href="https://github.com/Danilo09/js-banners">Banners with JavaScript</a>
 
-### TypeScript
+TypeScript
 
 <a target="__blank" href="https://github.com/Danilo09/storys-with-typescript">Storys with TypeScript</a><br>
 <a target="__blank" href="https://github.com/Danilo09/gym-typescript">Gym Landing Page with TypeScript, Vite and Tailwind</a>
 
-### ReactJS
+ReactJS
 
 <a target="__blank" href="https://github.com/Danilo09/origamid-project">Social Media - Login, upload, modal</a><br>
 <a target="__blank" href="https://github.com/Danilo09/Redux-Creating-Store">Redux Token with JWT and record in LocalStorage</a><br>
 <a target="__blank" href="https://github.com/Danilo09/UI-movies-browser">UI Movies Browser</a>
 
 
-### NextJS
+NextJS
 
 <a target="__blank" href="https://github.com/Danilo09/airbnb-clone-application">Airbnb Clone Application</a>
 
-### VueJS
+VueJS
 
 <a target="__blank" href="https://github.com/Danilo09/promo-project">Login with Vuex and Show Product</a>
 
