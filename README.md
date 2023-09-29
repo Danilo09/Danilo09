@@ -16,7 +16,7 @@ JavaScript
 TypeScript
 
 <a target="__blank" href="https://github.com/Danilo09/storys-with-typescript">Storys with TypeScript</a><br>
-<a target="__blank" href="https://github.com/Danilo09/gym-typescript">Gym Landing Page with TypeScript, Vite and Tailwind</a>
+<a target="__blank" href="https://github.com/Danilo09/gym-typescript">Gym Landing Page with TypeScript, Vite and Tailwind</a><br>
 <a target="__blank" href="https://github.com/Danilo09/videosSettings">Video Settings</a> 
 
 ReactJS
