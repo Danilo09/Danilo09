@@ -11,7 +11,7 @@
 JavaScript
 
 <a target="__blank" href="https://github.com/Danilo09/recipes">Structure with Oriented Object Program</a><br>
-<a target="__blank" href="https://github.com/Danilo09/js-banners">Banners with JavaScript</a>
+<a target="__blank" href="https://github.com/Danilo09/js-banners">Banners with AnimeJS</a>
 
 TypeScript
 
